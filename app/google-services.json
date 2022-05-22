@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295696166230",
+    "project_id": "lizard-170f0",
+    "storage_bucket": "lizard-170f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295696166230:android:2dab0e3b6f3571dcb8faf7",
+        "android_client_info": {
+          "package_name": "com.hoon.flower_lizard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295696166230-a0cr4m0lbqi18dn6cah671lbi6qnrqah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnAcF7SvYguIuCp1hxbis_UWb02F52EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295696166230-a0cr4m0lbqi18dn6cah671lbi6qnrqah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
